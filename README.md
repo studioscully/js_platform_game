@@ -24,21 +24,20 @@ being hit too many times by the deadly thorns!
 - See how quickly you can complete the challenge!
 
 General notes:
-It's designed as a base for you to build and improve upon 
+- It's designed as a base for you to build and improve upon 
 - hopefully it'll be a useful starting point to inspire you
 to make something cool! Baddies, moving platforms, time
 attacks, bullets, sloped platforms, power ups... the list
 goes on!
 
-In terms of improving the code, well, let's just say that 
+Code improvements:
+- In terms of improving the code, well, let's just say that 
 there are lots of opportunities. :D It's been put together 
 to Get It To Work, and can surely do with some clean up!
-
-Should we have a game manager? A level definition? 
+- Should we have a game manager? A level definition? 
 How can we better load images? What about a centralised
 "item" object that can act as a coin, thorn etc?
-
-How can we do better with the animations and should we
+- How can we do better with the animations and should we
 use a graphics library like Pixi.js?
 
 Lots to consider :D
