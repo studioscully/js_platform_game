@@ -42,3 +42,6 @@ Pat
 * `fonts/paytone-one.woff2` - The font used for the in-game UI
 * `images/` - The images for the game. You might find some images not yet included in the code for your use...
 * `js/game.js` - The game itself! All of the code you'll need to edit is in here!
+
+## Playing / Editing
+To play or edit the game, just download the project as a zip and unzip it on your computer - or clone the repository - and then run index.html to play it, or edit js/game.js to edit it!
