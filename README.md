@@ -45,3 +45,5 @@ Pat
 
 ## Playing / Editing
 To play or edit the game, just download the project as a zip and unzip it on your computer - or clone the repository - and then run index.html to play it, or edit js/game.js to edit it!
+
+It runs rather laggily in Firefox so a Chromium browser (Chrome/Brave/Edge etc) is recommended!
