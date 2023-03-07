@@ -25,10 +25,10 @@
  * - See how quickly you can do it!
  * 
  * It's designed as a base for you to build and improve upon 
- * - hopefully it'll be a useful starting point to inspire you
- * to make something cool! Baddies, moving platforms, time
- * attacks, bullets, sloped platforms, power ups... the list
- * goes on!
+ * - hopefully it'll be a useful starting point to inspire you 
+ * to make something cool! Baddies, moving platforms, time 
+ * attacks, bullets, sloped platforms, power ups, sounds... 
+ * ...the list goes on!
  * 
  * In terms of improving the code, well, let's just say that 
  * there are lots of opportunities. :D It's been put together 
